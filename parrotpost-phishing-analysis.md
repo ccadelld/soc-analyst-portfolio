@@ -27,5 +27,4 @@ Quarantine the phishing email across affected mailboxes, block the malicious sen
 
 ## Tools and skills
 **Tools:** Sublime Text, CyberChef, Firefox, Browser Developer Tools, IP-geolocation lookup.
-
 **Skills:** Email-header analysis, SPF/DKIM/DMARC verification, phishing-indicator identification, attachment inspection, Base64 and HTML-entity decoding, JavaScript and CSS deobfuscation, tracing form submission and redirects, HTTP request and response inspection.
